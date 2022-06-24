@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'pictureapi',
     'corsheaders',
-    'django_filters'
 ]
 
 REST_FRAMEWORK = {
