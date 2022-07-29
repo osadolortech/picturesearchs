@@ -17,7 +17,7 @@ Linux
 source /path/to/venv/bin/activate
 pip install -r requirements.txt
 
-#Documentation
+# Documentation
 
 Windows
 ./path/to/venv/bin/activate
