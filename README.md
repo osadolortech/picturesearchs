@@ -18,6 +18,7 @@ source /path/to/venv/bin/activate
 pip install -r requirements.txt
 
 # Documentation
+https://documenter.getpostman.com/view/18963336/UzXUQZz1
 
 Windows
 ./path/to/venv/bin/activate
