@@ -17,6 +17,9 @@ Linux
 source /path/to/venv/bin/activate
 pip install -r requirements.txt
 
+# Application Backend
+https://picture-searches.herokuapp.com/api/
+
 # Documentation
 https://documenter.getpostman.com/view/18963336/UzXUQZz1
 
